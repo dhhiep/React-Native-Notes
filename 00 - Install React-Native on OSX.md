@@ -25,7 +25,7 @@
     cd hello-world
     react-native run-ios
 
-##### 8. Q & A
+##### 8. Q&A
 
 ###### Q1: Project init fails with unexpected token (TerminalClass.js:141 SyntaxError: Unexpected token ...)
 
